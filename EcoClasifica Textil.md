@@ -1,5 +1,3 @@
-<h1 align="center">PROYECTO FINAL</h1>
-
 <h1 align="center">EcoClasifica Textil</h1>
 
 <h2 align="center">1. Introducción</h2>
@@ -69,6 +67,24 @@ Fase 3: Prompt maestro para guiar al agente y proporcionar respuestas especializ
 - Clasificación inteligente implementada.
 - Generación automática de recomendaciones.
 
+### 4.4 Evidencia fotográfica
+
+<img width="1920" height="1080" alt="Captura de pantalla (380)" src="https://github.com/user-attachments/assets/fed412e4-fced-4187-936e-c814a4e62507" />
+<img width="1920" height="1080" alt="Captura de pantalla (379)" src="https://github.com/user-attachments/assets/27708414-4595-492b-95fa-1688a703ec41" />
+<img width="1920" height="1080" alt="Captura de pantalla (378)" src="https://github.com/user-attachments/assets/5905c18e-ad6a-4158-bfb0-c8bbdfa28be7" />
+<img width="1920" height="1080" alt="Captura de pantalla (377)" src="https://github.com/user-attachments/assets/8e732231-f3e1-4af6-a43d-17db103ffc62" />
+<img width="1920" height="1080" alt="Captura de pantalla (376)" src="https://github.com/user-attachments/assets/d43bd8d9-118b-4ddb-9a3c-08370fdbae09" />
+<img width="1920" height="1080" alt="Captura de pantalla (375)" src="https://github.com/user-attachments/assets/cd508bba-5fa6-47d0-be95-23e5aad5c0ca" />
+<img width="1920" height="1080" alt="Captura de pantalla (374)" src="https://github.com/user-attachments/assets/c4d4edf9-a1c3-46e7-a8b7-478777ce70a9" />
+<img width="1920" height="1080" alt="Captura de pantalla (373)" src="https://github.com/user-attachments/assets/18462784-4e25-47e5-b210-5fb931eb6f41" />
+<img width="1920" height="1080" alt="Captura de pantalla (372)" src="https://github.com/user-attachments/assets/95dcdbe5-09ef-47aa-962d-751e85d2107a" />
+<img width="1920" height="1080" alt="Captura de pantalla (371)" src="https://github.com/user-attachments/assets/74ebaf3e-f824-49a0-8057-f0fb53222db9" />
+<img width="1920" height="1080" alt="Captura de pantalla (370)" src="https://github.com/user-attachments/assets/0b352f86-63cd-4ee0-90b3-bed9ec8737b7" />
+<img width="1920" height="1080" alt="Captura de pantalla (369)" src="https://github.com/user-attachments/assets/f1926d25-c8ef-4c7d-9068-388a3e8ed2db" />
+<img width="1920" height="1080" alt="Captura de pantalla (368)" src="https://github.com/user-attachments/assets/48383c5c-4990-424b-9283-ce9594a79aa7" />
+<img width="1920" height="1080" alt="Captura de pantalla (367)" src="https://github.com/user-attachments/assets/572d95a9-8d21-4d32-be1f-6f66da183c23" />
+<img width="1920" height="1080" alt="Captura de pantalla (366)" src="https://github.com/user-attachments/assets/1c4db148-783b-4d07-969c-96026c3f334a" />
+
 <h2 align="center">5. Tecnologías utilizadas</h2>
 
 1. Microsoft Azure.
@@ -124,11 +140,7 @@ Entrega:
 
 <h2 align="center">8. Autor </h2>
 
-Víctor Ignacio Sánchez Cruz
-
-<h2 align="center">8. Pagina WEB </h2>
-
-https://eco-clasifica-textil-5738.azurewebsites.net/
+Ing. Víctor Ignacio Sánchez Cruz
 
 <h2 align="center">9. Bibliografía</h2>
 
