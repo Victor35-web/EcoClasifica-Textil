@@ -24,7 +24,9 @@ En la República Mexicana existen 91 rellenos sanitarios, de los cuales 5 cuenta
 
 <h2 align="center">3. Desarrollo</h2>
 
-El proyecto EcoClasifica Textil no solamente se basa en la creación de una plataforma digital, su función principal es la clasificación y el reciclaje de residuos en la Ciudad de México, sino que también tiene como objetivo gestión, promoviendo prácticas sostenibles entre la ciudadanía, las empresas y las instituciones gubernamentales.
+El proyecto EcoClasifica Textil no solamente se basa en la creación de una plataforma digital por medio de Inteligencia Artificial, tiene como función principal clasificar, valorizar, dar una respuesta técnica y que sea entendible para todo público.
+
+Cuyo objetivo es la gestión integral, promoviendo buenas prácticas sostenibles entre la ciudadanía, empresas públicas y privadas incluyendo a las instituciones gubernamentales.
 
 ### 3.1 Fases del proyecto
 
